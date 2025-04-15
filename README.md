@@ -82,7 +82,7 @@ If you'd like to retrain the model:
 
 ## 📷 Screenshots
 ### 🔹 Training
-![Home Page](Images/Original vs Predictions(Full Data).png)
+![Training](Images/Original vs Predictions(Full Data).png)
 
 ### 🔹 Prediction Result
 ![Prediction Result](screenshots/prediction_result.png)
