@@ -8,15 +8,14 @@ A machine learning-based web application that predicts future stock prices using
 
 - 📊 Stock price prediction using a trained neural network model.
 - 💡 Simple and intuitive web interface for user interaction.
-- 🧠 Pre-trained Keras model for quick deployment.
+- 🧠 Trained Keras model for quick deployment.
 - 🔧 Easily customizable and extendable for different stocks or datasets.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, Bootstrap (if applicable)
-- **Backend**: Python (Flask)
+- **UI**: Streamlit
 - **Machine Learning**: Keras, TensorFlow
 - **Data Handling**: NumPy, Pandas, Scikit-learn
 - **Visualization**: Matplotlib
@@ -64,7 +63,7 @@ python app.py
 ## 📈 How It Works
 
 1. Historical stock data is collected and preprocessed.
-2. A deep learning model (likely an LSTM) is trained to identify price patterns.
+2. A deep learning model LSTM is trained to identify price patterns.
 3. The user can interact with the web app to view predictions.
 4. Model forecasts the next potential closing price based on trends.
 
