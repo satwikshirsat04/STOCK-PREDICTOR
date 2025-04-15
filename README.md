@@ -1,8 +1,3 @@
-Sure! Here's the complete and professional `README.md` file you can directly copy and paste into your repository:
-
----
-
-```markdown
 # 📈 STOCK PREDICTOR
 
 A machine learning-based web application that predicts future stock prices using historical data. Built with Python, Keras, and Flask, this project leverages deep learning to forecast trends in stock markets.
@@ -117,9 +112,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Satwik Shirsat**  
 [GitHub](https://github.com/satwikshirsat04)
-
----
-
-```
-
-Let me know if you'd like a Markdown file download, a version with images/diagrams, or if you want me to help you add a LICENSE file too.
