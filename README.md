@@ -82,7 +82,7 @@ If you'd like to retrain the model:
 
 ## 📷 Screenshots
 ### 🔹 Training
-![Training](Images/Original_vs_Predictions(Full_Data).png)
+![Training](Images/IBM_Crash.png)
 
 ### 🔹 Prediction Result
 ![Prediction Result](screenshots/prediction_result.png)
