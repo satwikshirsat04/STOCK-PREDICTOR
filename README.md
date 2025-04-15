@@ -81,6 +81,8 @@ If you'd like to retrain the model:
 ---
 
 ## 📷 Screenshots
+### 🔹 Training 
+![Training](Images/Original_vs_Predictions_Full.png)
 ### 🔹 Google Stock
 ![Google](Images/Google_Crash.png)
 
