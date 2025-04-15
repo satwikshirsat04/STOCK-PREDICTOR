@@ -82,7 +82,6 @@ If you'd like to retrain the model:
 
 ## 📷 Screenshots
 
-> *(Add screenshots of your UI here to enhance README visual appeal)*
 
 ---
 
@@ -102,11 +101,6 @@ Feel free to check the [issues page](https://github.com/satwikshirsat04/STOCK-PR
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 👨‍💻 Author
 
