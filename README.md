@@ -88,8 +88,8 @@ If you'd like to retrain the model:
 ### 🔹 Google Stock
 ![Google](Images/Google_Crash.png)
 
-### 🔹 Prediction Result
-![Prediction Result](screenshots/prediction_result.png)
+### 🔹 Prediction Result (Adani Power)
+![Prediction Result](Images/Adani_Power_Stock.png)
 
 ---
 
