@@ -7,7 +7,7 @@ from alpha_vantage.timeseries import TimeSeries
 from sklearn.preprocessing import MinMaxScaler
 from datetime import datetime
 
-api_key = "KV4DCWC488ZX1VPN"
+api_key = "YW9RGDA36GI4T535"
 
 st.title("Stock Price Graph Predictor Using Keras")
 
